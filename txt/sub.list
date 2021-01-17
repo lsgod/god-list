@@ -86,6 +86,26 @@ https://proxypool.ga/vmess/sub
 https://proxypool.ga/ss/sub
 https://proxypoolss.tk/clash/proxies?speed=100&type=vmess,trojan
 
+proxies:
+  - {name: K0-1701, server: 125.46.40.166, port: 111, type: vmess, uuid: 39493d0a-902e-3d53-b9a2-c1efd1ff5358, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 125.46.40.166}}
+  - {name: K0-1702, server: 125.46.40.166, port: 105, type: vmess, uuid: 39493d0a-902e-3d53-b9a2-c1efd1ff5358, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 125.46.40.166}}
+  - {name: K0-1703, server: ddns.ddns1312.top, port: 20500, type: vmess, uuid: efd12afd-b2b0-42fe-a6c0-f315e11f6b75, alterId: 12, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: ddns.ddns1312.top}}
+  - {name: K0-1704, server: 125.46.40.166, port: 106, type: vmess, uuid: 39493d0a-902e-3d53-b9a2-c1efd1ff5358, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 125.46.40.166}}
+  - {name: K0-1705, server: 125.46.40.166, port: 110, type: vmess, uuid: 39493d0a-902e-3d53-b9a2-c1efd1ff5358, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 125.46.40.166}}
+  - {name: K0-1706, server: 37.120.196.59, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1707, server: 103.152.151.69, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: K0-1708, server: 103.152.151.85, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: K0-1709, server: 125.46.40.166, port: 114, type: vmess, uuid: 39493d0a-902e-3d53-b9a2-c1efd1ff5358, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 125.46.40.166}}
+  - {name: K0-1710, server: 185.180.14.147, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1711, server: 173.208.202.61, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1712, server: 99.83.181.186, port: 11011, type: vmess, uuid: cccf242d-5da6-41ac-9ea3-9f78e7bb8c58, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /downloads/wechat.setup.exe, ws-headers: {Host: aga-jp.ide.wtf}}
+  - {name: K0-1713, server: 37.120.197.11, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1714, server: 154.84.1.223, port: 443, type: vmess, uuid: d143380c-bac9-48d8-a314-62339045cadb, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.57053041.xyz}}
+  - {name: K0-1715, server: 89.187.169.119, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: K0-1716, server: 89.187.169.119, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1717, server: 89.187.161.4, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: K0-1718, server: 125.46.40.166, port: 113, type: vmess, uuid: 39493d0a-902e-3d53-b9a2-c1efd1ff5358, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 125.46.40.166}}
+  - {name: K0-1719, server: 104.19.3.14, port: 443, type: vmess, uuid: 9e6ceeff-2546-3690-ac00-6fcdf31dec94, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /y284, ws-headers: {Host: freeus.mcan.tech}}
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktpbmdGdeaZr+emj0BZb3VUdUJl6K+36K6i6ZiFIiwNCiAgImFkZCI6ICIzLjM1LjIwOC45MCIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjM5NDkzZDBhLTkwMmUtM2Q1My1iOWEyLWMxZWZkMWZmNTM1OCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3B1Y2xvdWQiLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktpbmdGdeaZr+emj0BZb3VUdUJl6K+36K6i6ZiFIiwNCiAgImFkZCI6ICIxNTQuODQuMS42OCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI4NDQ3ZTYxOC0wMzJlLTQ5ODEtOTQzZC1kMzA4MjA0OTY1NmQiLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ3d3cuMzI0Mjk2NzgueHl6IiwNCiAgInBhdGgiOiAiL2Zvb3RlcnMiLA0KICAidGxzIjogInRscyINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktpbmdGdeaZr+emj0BZb3VUdUJl6K+36K6i6ZiFIiwNCiAgImFkZCI6ICJsMi11cy1jbjItMDEubXVndW4ueHl6IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYTc4YjlkZmYtN2UzZi0zMzRkLTg5OTgtYTczNjk5MGYxNjljIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvbXVndWEiLA0KICAidGxzIjogIiINCn0=
