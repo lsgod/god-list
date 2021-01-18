@@ -1,3 +1,24 @@
+proxies:
+  - {name: K0-1801, server: 99.83.181.186, port: 11011, type: vmess, uuid: cccf242d-5da6-41ac-9ea3-9f78e7bb8c58, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /downloads/wechat.setup.exe, ws-headers: {Host: aga-jp.ide.wtf}}
+  - {name: K0-1802, server: 124.244.186.121, port: 443, type: vmess, uuid: b707c9e6-3a61-4f0b-8844-9a398cfadfb7, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /add76314/, ws-headers: {Host: centos.fuchau.xyz}}
+  - {name: K0-1803, server: 84.17.34.24, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1804, server: 84.17.34.46, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1805, server: 89.187.161.239, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1806, server: 103.152.151.69, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: K0-1807, server: 45.87.213.87, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: K0-1808, server: 45.87.213.101, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1809, server: 103.152.151.85, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: K0-1810, server: 45.87.213.19, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: K0-1811, server: 89.187.161.2, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: K0-1812, server: 104.22.44.50, port: 443, type: vmess, uuid: 011e3bc5-8d82-2efa-c844-05f9daae9a0d, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /sommvws, ws-headers: {Host: 8964.buzz}}
+  - {name: K0-1813, server: 89.187.161.4, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: K0-1814, server: 45.87.213.83, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: K0-1815, server: 37.120.212.147, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1816, server: 45.87.213.85, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1817, server: 84.17.34.26, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1818, server: 45.87.213.243, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: K0-1819, server: 75.2.31.166, port: 48607, type: vmess, uuid: 410a4341-1872-4109-ecba-da8302dc3d70, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 75.2.31.166}}
+
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktpbmdGdeaZr+emj0BZb3VUdUJl6K+36K6i6ZiFIiwNCiAgImFkZCI6ICJzMTM4LnNub2RlLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJmNjc2OTY3OS0zOTYwLTMzZDQtYTkxZS0zNWEwNGJjMTkwZGUiLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInMxMzguc25vZGUueHl6IiwNCiAgInBhdGgiOiAiL3BhbmVsIiwNCiAgInRscyI6ICJ0bHMiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktpbmdGdeaZr+emj0BZb3VUdUJl6K+36K6i6ZiFIiwNCiAgImFkZCI6ICJsMi11cy1jbjItMDEubXVndW4ueHl6IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYTc4YjlkZmYtN2UzZi0zMzRkLTg5OTgtYTczNjk5MGYxNjljIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvbXVndWEiLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktpbmdGdeaZr+emj0BZb3VUdUJl6K+36K6i6ZiFIiwNCiAgImFkZCI6ICIyMTAuNjUuNDcuOTQiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI5ODcyN2E2OC05YjA5LTMyOTYtYjgzZi00ZDc3MmVjMDYxNWYiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjIxMC42NS40Ny45NCIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiINCn0=
